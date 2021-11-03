@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Caliy659
+- 👋 Hi, I’m @Caily659
 - 👀 I make mc plugins and discord bots.
 
 <!---
