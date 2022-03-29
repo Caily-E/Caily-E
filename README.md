@@ -1,5 +1,5 @@
 # Introduction
-Hi, I’m @Caily-E
+Hi, I’m Caily
 
 # Information
 
